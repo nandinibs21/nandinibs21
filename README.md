@@ -78,9 +78,10 @@ I believe in blending **data, logic, and creativity** to build impactful, ethica
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=NandiniBS&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=NandiniBS&theme=tokyonight&hide_border=true" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nandinibs21&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=nandinibs21&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
@@ -89,5 +90,6 @@ I believe in blending **data, logic, and creativity** to build impactful, ethica
 🔗 **LinkedIn:** [Nandini B S](https://www.linkedin.com/in/bsnandini001/)  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NandiniBS&style=flat-square&color=blueviolet">
+  <img src="https://komarev.com/ghpvc/?username=nandinibs21&style=flat-square&color=blueviolet">
 </p>
+
