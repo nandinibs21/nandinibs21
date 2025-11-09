@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=40&center=true&vCenter=true&width=600&height=70&lines=I'm+Nandini+B+S;An+AI+%26+ML+Engineer;Data+Driven+Innovator;Lifelong+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=40&center=true&vCenter=true&width=700&height=70&lines=I'm+Nandini+B+S;An+AI+%26+ML+Engineer;Data+Driven+Innovator;Lifelong+Learner;Into+Fitness+(AI+Models+Not+Weights)">
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
+
 
 ---
 
