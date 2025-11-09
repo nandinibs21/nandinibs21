@@ -60,9 +60,9 @@ I believe in blending **data, logic, and creativity** to build impactful, ethica
 🎓 **Bachelor of Engineering in Computer Science**  
 *Visvesvaraya Technological University, India (2018–2022)*  
 
- <h2>🤖 Laugh Mode: ON: Have Fun</h2>!!!</h2>
+ <h2>🤖 Laugh Mode: ON --- Have Fun</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=900&height=70&lines=Fitness%3A+I+only+lift+model+weights.;Love%3A+I+overfit+fast%2C+please+regularize.;Humans+vs+Machines%3A+you+sleep%2C+I+cache.;Cardio%3F+More+like+gradient+descent.;Heartbreak%3A+handled+with+dropout+and+early+stopping.;I+don%E2%80%99t+ghost%2C+I+just+garbage-collect." alt="Fun Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFEF&size=28&center=true&vCenter=true&width=900&height=70&lines=My+machine+learning+model+does+more+reps+than+I+do.;Even+my+CPU+needs+a+cooldown+after+training.;I+bench+press+datasets+for+fun.;Strong+core%3F+Mine's+a+GPU.;Forget+cardio%2C+I+run+epochs.;No+pain%2C+no+gradient+gain." alt="Machines and Fitness Jokes" />
 </p>
 
 
